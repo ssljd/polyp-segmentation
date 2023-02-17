@@ -1,17 +1,4 @@
-# PraNet: Parallel Reverse Attention Network for Polyp Segmentation (MICCAI2020-Oral)
-
-> **Authors:** 
-> [Deng-Ping Fan](https://dengpingfan.github.io/), 
-> [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en), 
-> [Tao Zhou](https://taozh2017.github.io/),
-> [Geng Chen](https://www.researchgate.net/profile/Geng_Chen13), 
-> [Huazhu Fu](http://hzfu.github.io/), 
-> [Jianbing Shen](http://iitlab.bit.edu.cn/mcislab/~shenjianbing), and 
-> [Ling Shao](http://www.inceptioniai.org/).
-
-<p align="center">
-    <img src="imgs/PraNet-Award.png"/> <br />
-</p>
+# Polyp Segmentation (MICCAI2020-Oral)
 
 ## 1. Preface
 
@@ -51,7 +38,7 @@ or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-cit
 
 ### 1.2. Table of Contents
 
-- [PraNet: Parallel Reverse Attention Network for Polyp Segmentation (MICCAI2020-Oral)](#pranet-parallel-reverse-attention-network-for-polyp-segmentation-miccai2020-oral)
+- [Polyp Segmentation (MICCAI2020-Oral)](#polyp-segmentation-miccai2020-oral)
   - [1. Preface](#1-preface)
     - [1.1. :fire: NEWS :fire:](#11-fire-news-fire)
     - [1.2. Table of Contents](#12-table-of-contents)
