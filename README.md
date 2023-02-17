@@ -100,10 +100,6 @@ and real-time segmentation efficiency (∼50fps).
 
 <p align="center">
     <img src="imgs/P-AttUNet.jpg"/> <br />
-    <em> 
-    Figure 1: Overview of the proposed PraNet, which consists of three reverse attention 
-    modules with a parallel partial decoder connection. See § 2 in the paper for details.
-    </em>
 </p>
 
 ## 3. Proposed Baseline
